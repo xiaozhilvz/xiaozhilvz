@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Here are some ideas to get you started:
+### The following is my self-introduction:
 
 ### - 🔭 I’m currently working on school
 ### - 🌱 I’m currently learning C/C++![code-C-green](https://user-images.githubusercontent.com/122256279/236675660-533ccecb-1ed0-48eb-aba0-8e0a6ad13656.svg)![code-C++-brightgreen](https://user-images.githubusercontent.com/122256279/236675669-7089118c-3a1c-4e87-b7f6-deb5582520bd.svg)
