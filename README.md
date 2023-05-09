@@ -16,4 +16,4 @@
                                                                             
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xiaozhilvz)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=xiaozhilvz&theme=dark)
