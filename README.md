@@ -1,5 +1,5 @@
 ### Hi there 👋
-666
+
 ### The following is my self-introduction:
 
 ### - 🔭 I’m currently working on school
@@ -12,7 +12,7 @@
 
 ### - 👯 I’m a common people![TI6}O0J2S$F$ YP3IPEO 4M](https://user-images.githubusercontent.com/122256279/236675835-1e18264a-9116-4a34-8cda-d2cee80cd766.png)
 
-### - welcome to join us discord club:https://discord.gg/c7CtjVu46E
+### - welcome to join us discord club:  https://discord.gg/c7CtjVu46E
                                                                             
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xiaozhilvz)](https://git.io/streak-stats)
 
