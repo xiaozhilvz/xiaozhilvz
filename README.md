@@ -1,5 +1,5 @@
 ### Hi there 👋
-6
+
 ### The following is my self-introduction:
 
 ### - 🔭 I’m currently working on school
